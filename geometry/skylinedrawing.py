@@ -57,6 +57,6 @@ def get_skyline(buildings):
     return result
 
 if __name__ == '__main__':
-    buildings = [[1, 3, 4], [3, 4, 4], [2, 6, 2], [8, 11, 4], [7, 9, 3], [10, 11, 2]]
+    buildings = [[1, 3, 41], [3, 4, 4], [2, 6, 2], [8, 11, 4], [7, 9, 3], [10, 11, 2]]
     print(get_skyline(buildings))
     
